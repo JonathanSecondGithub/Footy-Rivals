@@ -1,16 +1,9 @@
 # footy_rivals
+![logo (2)](https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/5b629508-01cf-4bf5-a534-8289cceaa186)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This a mobile application for competing between friends.
+Include modes like:
+- Tier lists
+- Trivia
+- Drafts
+- etc
