@@ -1,7 +1,5 @@
 
-<div style="text-align: center;">
-    <img src="https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/9e3ed1af-eb23-454a-b34b-fcffa5820311" alt="logo" width="200" height="200">
-</div>
+<img src="https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/9e3ed1af-eb23-454a-b34b-fcffa5820311" alt="logo" style="width:50%;height:auto;">
 # Footy-Rivals
 Football Game made in flutter with Supabase
 Includes game modes like:
