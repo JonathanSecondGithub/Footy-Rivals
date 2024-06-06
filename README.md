@@ -1,5 +1,5 @@
 # Footy-Rivals
-Football Game made in flutter with Supabase
+# Football Game made in flutter with Supabase
 Includes game modes like:
 - Tear Lists
 - Football Draft
