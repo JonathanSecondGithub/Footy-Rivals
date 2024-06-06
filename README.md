@@ -1,11 +1,16 @@
-# Footy-Rivals
-<img src="https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/9e3ed1af-eb23-454a-b34b-fcffa5820311" alt="logo" style="width:50%;height:auto;">
+# footy_rivals
 
-Football Game made in flutter with Supabase
-Includes game modes like:
-- Tear Lists
-- Football Draft
-- Guess the player
-- Football trivia
-- Football Jeopardy
-- Guess the link
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
