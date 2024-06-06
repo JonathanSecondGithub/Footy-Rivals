@@ -1,4 +1,4 @@
-<img src="https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/edf5dbe4-b72c-47b5-92a3-99c36f90bf89" alt="logo" style="width:25%;height:auto;">
+![logo (2)](https://github.com/JonathanSecondGithub/Footy-Rivals/assets/117745295/8767253a-8868-43a3-b3d4-8d33d6ba384c)
 
 #Footy-Rivals
 Football Game made in flutter with Supabase
